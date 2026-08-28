@@ -2,7 +2,7 @@
 
 > 把“吃相”从道德题改成回收率题：钱出去了，能不能回来？以什么资产回来？失败时谁兜底？
 
-![status](https://img.shields.io/badge/status-v1.2-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
+![status](https://img.shields.io/badge/status-v1.3-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
 
 **孙割心法**是一个面向加密圈、公关事件、内容生意和谈判场景的 Skill。它把“孙哥式操作”抽象成一套冷冰冰的 **Recoverable-Cost Model**：不在乎场面评价，只在乎成本能否转成现金、注意力、控制权、期权和退出故事。
 
@@ -45,6 +45,8 @@
 
 输出结论只有四档：**加仓 / 小试 / 改结构 / 放弃**。
 
+四档不是拍脑袋，而是由六个问题打分推导：两个以上「弱」或「未知」，就先退到更便宜的实验，而不是加仓。
+
 ---
 
 ## 3. J 节点：景甜小作文
@@ -85,6 +87,8 @@ meme 里的读法是：**孙哥完全不亏，钱、叙事、注意力都像是�
 | 梗卡创作 | 触发 / 效果 / 代价 / 克制 / 事实标签 |
 
 一句话：它帮你看懂“不体面但有效”的结构，同时不让自己的账号、仓位和信用一起进去。
+
+每个 reference 节点开头统一带三个字段：`触发条件`、`回答什么`、`结论怎么推导`。Agent 先按触发条件定位节点，再沿推导链得出结论，结论只推到有证据支撑的层级，不上到没被证明的事实。
 
 ---
 
