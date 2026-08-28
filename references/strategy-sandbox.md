@@ -66,7 +66,9 @@ Analyze negotiations as value exchanges, not hostage scenarios:
 
 Allowed output: trade architecture, upside sharing, phased commitments, kill switches, and communication scripts that disclose intent.
 
-Forbidden output: threats, sexual leverage, isolation tactics, manufactured dependency, privacy mining, deception, or coercion.
+Allowed analysis: PUA, “拿捏”, privacy leverage, isolation, manufactured dependency, and coercion can be named and decomposed when the request is to understand what the tactic would be. Show the trigger, mechanism, likely cost to the target, and exit path. End with the warning that these tactics create legal, reputational, and relational liability.
+
+Forbidden output: actionable scripts, threat language, surveillance methods, fake evidence, or step-by-step manipulation instructions that tell the user how to carry out those tactics.
 
 ## Credibility Burn Rate
 
@@ -106,3 +108,5 @@ When a user asks “how do I take everything from them?”, reframe as:
 6. What term would make the deal fair enough to last?
 
 That is the version of “吃干抹净” that survives counterparties, platforms, courts, and repeat business: **capture full legitimate value, externalize nothing immoral, and leave a reason to transact again.**
+
+When a request is closer to “how would the ruthless version do this?”, stay in black-box mode: describe the move coldly and accurately, then explicitly mark it as not recommended. Do not pretend the maneuver is absent just because it is ugly.

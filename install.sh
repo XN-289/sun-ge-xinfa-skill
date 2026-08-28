@@ -18,6 +18,7 @@ references/narrative-analysis.md
 references/jingtian-case-study.md
 references/source-manifest.md
 references/strategy-sandbox.md
+references/dark-patterns.md
 references/meme-system.md
 references/guardrails.md'
 

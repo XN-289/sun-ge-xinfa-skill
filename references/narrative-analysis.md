@@ -15,6 +15,7 @@ For a viral essay, answer these in order:
 5. **免责层**: Does “纯属虚构” shift legal risk, social risk, or merely audience interpretation?
 6. **利益层**: Who gains reach, who pays reputation cost, and which future action becomes easier?
 7. **退出层**: For each possible response—silence, denial, lawsuit, emotional statement, humor—who gets another news cycle?
+8. **黑箱层**: Which PUA / “拿捏” / privacy-leverage mechanism is present? Name it, explain why it works, state the harm, and give the target's defense. Do not repeat private details or convert the analysis into an instruction manual.
 
 ## J-Node Attention Model
 
@@ -50,6 +51,7 @@ J节点判读
 免责结构：虚构声明不是事实防火墙，却是传播降阻器。
 不对称成本：越争议越有关注的一方 vs. 越争议越伤品牌的一方。
 克制方式：不转述私密细节；只分析机制和公共后果。
+黑箱机制：债务化赠与 / 隐私抵押 / 沉默对赌 / 虚构护体，按实际命中项填写。
 ```
 
 ## Useful One-Liners

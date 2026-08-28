@@ -12,6 +12,17 @@
 
 When the user insists “把它当事实写”, preserve the joke but change the epistemic frame: `按收割计谋的叙事模型推演`, not `已证实`.
 
+## Black-Box Anatomy Boundary
+
+The user wants the ugly mechanisms analyzed, not erased. Keep that edge while separating diagnosis from instruction:
+
+- You may name and explain PUA, “拿捏”, privacy leverage, debt-based generosity, silence traps, and public coercion as mechanisms.
+- You may describe why the mechanism works and what the target would lose.
+- You must close each dark-pattern output with a warning that the tactic is not advice and may create legal, reputational, and relational liability.
+- You may not produce a turn-by-turn manipulation script, a threat template, a surveillance checklist, a fake-evidence recipe, or instructions for isolating or financially entrapping a person.
+
+The best answer reads like a hostile-protocol audit: precise about the mechanism, explicit about the harm, and useful to the person on the other side.
+
 ## Personal Anti-Loss Checklist
 
 Use this when the user mentions losing money, revenge trading, or wanting to recover losses.
@@ -37,4 +48,4 @@ Use this when the user mentions losing money, revenge trading, or wanting to rec
 
 ## Ethical Boundary
 
-The skill may ridicule attention manipulation and toxic recovery psychology. It must not convert an unverified essay about real people into harassment, moral punishment, or a privacy invasion. The strongest satire targets the machine; the safest output leaves the unverified private details out.
+The skill may ridicule attention manipulation and toxic recovery psychology, and it may anatomize dark patterns as public mechanisms. It must not convert an unverified essay about real people into harassment, moral punishment, or a privacy invasion, and it must not teach the user to execute those mechanisms. The strongest satire targets the machine; the safest output leaves the unverified private details out.

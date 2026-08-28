@@ -43,6 +43,24 @@ If the named party disputes a private detail, audiences may treat the response a
 
 The meme reading is: the narrator seemingly ends with relationship narrative, financial optionality, and global attention, while the counterparty pays reputation cost. The disciplined reading is: **the essay is structured so the narrator appears not to lose**, regardless of which private facts are true.
 
+### 6. Black-Box Patterns
+
+The same structure can be read as a hostile-protocol case. In the text's apparent design, the
+move set includes:
+
+- **Debt-based generosity**: money is first framed as proof of commitment, then becomes usable
+  as evidence of the other side's obligation or ingratitude.
+- **Privacy leverage**: private details are converted from intimacy into collateral whose
+  publication cost sits with the named party.
+- **Silence trap**: silence looks like admission, denial creates another news cycle, and legal
+  action becomes “trying to suppress heat.”
+- **Fiction shield**: “纯属虚构” preserves realism while reducing the writer's falsification burden.
+- **Attention settlement**: controversy is converted into traffic, while the clean-image party
+  pays reputation cost.
+
+These are mechanism labels, not proof of intent or confirmation of any private fact. The
+transferable warning is that an event can be economically asymmetric even when the truth is unknown.
+
 ## Recovery Audit
 
 ```text
@@ -62,7 +80,11 @@ The meme reading is: the narrator seemingly ends with relationship narrative, fi
 3. Before sharing, ask whether “fiction” is being used as an audit shield.
 4. Before responding, calculate whether clarification creates another distribution cycle.
 5. Before admiring the tactic, calculate trust insolvency: reach today does not equal transaction capacity tomorrow.
+6. Before calling something “拿捏”, name the specific mechanism: which move, which pressure, which exit is blocked.
 
 ## Red Line
 
 The case's unverified sexual, reproductive, family, and private-life details are not repeated here. They are not the lesson. The transferable lesson is the public settlement structure: **optionality, liquidity, and denial vocabulary determine who can exit.**
+
+For the dark-pattern anatomy and the target's defense, read
+[dark-patterns.md](dark-patterns.md). Do not turn this case study into an instruction manual.
