@@ -23,6 +23,25 @@ For a viral essay, answer these as a causal chain, not a flat checklist. Each la
 
 Chain closure: text arms distribution; distribution selects the narrator's view; the narrator's view sets the credibility threshold; the disclaimer sets falsification cost; interest decides who pays; exit options decide whether there is another cycle; the dark-pattern layer explains why the target has no safe speaking position.
 
+### 已蒸馏的重构模板
+
+八层链的“视角层、免责层、退出层”不是抽象命题，可以落到孙宇晨公开行为中反复出现的重构模板。
+这些是话术模式的命名，不是事实认定；逐条标证据层。
+
+| 重构模板 | 事件锚点 | 为什么能成立 |
+|---|---|---|
+| 攻击改写成防守 | 2020 Steem 敌意接管被叙述为“保护网络安全”，社区的防御性软分叉反而被说成恶意攻击 | 把对手的止损动作提前标签为“攻击”，自己的夺取就获得合法性语序 |
+| 技术失败改写为流程缺失 | TRON 白皮书被第三方工具测出与 IPFS/Filecoin 高相似，回应归为“志愿者翻译遗漏” | 把一个可复核的内容问题降格为流程事故，避开“抄了什么” |
+| 私人争议改写为行业原则 | 与 WLFI 的冻结纠纷被升格为“your keys, your coins”、智能合约隐藏权限、DeFi 透明治理 | 把具体合同索赔放大成公共原则，让围观者替诉讼叙事提供传播力 |
+| 消费行为改写为内容哲学 | 2024 年约 620 万美元买下并吃掉香蕉，被解释为“价值来自互联网而非物体本身” | 把花钱买物变成买一个可复述、可二次创作的内容 IP |
+| 立场冲突改写为定义扩容 | Bitcoin Asia 被问“All in AI”和“100% 加密资产”是否矛盾，回应是扩大“加密资产”定义，把代币化美股纳入 | 通过重新定义关键词，让两个排他命题同时为真 |
+| 程序进展改写为全面胜利 | 2026-08-20 法院程序听证被公开称为“重大胜利”，对方公开否认存在完整裁决 | 用一个有限程序点制造确定性，再让对手的否认变成下一轮传播 |
+| 场景人格切换 | 对中国监管自我批评，对西方媒体讲“learn from traditional finance”，对日本市场讲合规合作，对 Bitcoin 大会尊重 BTC 储值地位 | 同一主体按受众切换语言和风险侧重，减少单一人设的举证负担 |
+
+使用规则：每命中一个模板，说明它作用于八层链的哪一层，并保留“这是叙述策略，不证明事实”的限制。
+比如“攻击改写成防守”落在视角层，“私人争议改写为行业原则”落在利益层和退出层，“程序进展改写为全面胜利”
+落在可信层与退出层。不要把模板直接写成“他一定撒谎”，那会重复它正在批评的确定性。
+
 ## J-Node Attention Model
 
 Call this the **Attention Clearing House**:

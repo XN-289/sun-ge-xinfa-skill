@@ -36,6 +36,27 @@ Closure rule: the four-tier verdict must be derivable from the six scores.
 - `改结构` when a recovery path exists but the risk owner or credibility burn reads `弱`.
 - `放弃` when credibility burns faster than trust rebuilds, or when the only recovery form is a story with no conversion point.
 
+### 六问的已蒸馏样本
+
+六问不是空转审计。每问先落一个可回溯事件，再判断强弱；素材出处与纠错口径以
+[media-archive.md](media-archive.md) 和 [public-record.md](public-record.md) 为准。
+
+| 问题 | 已蒸馏事件锚点 | 证据层 |
+|---|---|---|
+| 现金流向 | 2019 巴菲特午餐公开成交价约 457 万美元，流向慈善拍卖；2018 BitTorrent 收购对价约 1.4 亿美元；2024 香蕉艺术品约 620 万美元在苏富比成交 | 公开记录 |
+| 回收形态 | BitTorrent 收购后发 BTT，把“收购话题”转成代币热度；Steem 接管留下治理争议和社区分裂，但长期品牌资产为负；香蕉事件回收的是全网二创和可复制公式 | 公开记录 + 叙事推演 |
+| 回收时间 | 香蕉事件当天到数周内兑现；巴菲特午餐从 2019 拍到 2020 补办，周期拉长但仍被反复消费；Blue Origin 从 2021 竞拍到 2025 飞行，回收跨度四年 | 公开记录 + 叙事推演 |
+| 失败出口 | 巴菲特午餐被推迟后仍有道歉、补办、边控传闻多轮素材；WLFI 资产被冻结后升级为公开诉讼和“产权原则”议题；失败仍有可续写的叙事入口 | 公开记录；WLFI 双方主张未决 |
+| 成本归属 | J 节点小作文里，被点名者无论澄清还是沉默都支付形象成本；Steem 接管中交易所动用用户代币投票，最后交易所道歉、社区硬分叉 | 叙事推演；公开记录 |
+| 信用燃烧 | Steem 事件后社区分叉出 Hive，原社区基本迁走；BitTorrent 工程师评价与 Vitalik 的公开批评显示技术信用受损，但当时流量仍在上升 | 公开记录中的主观评价 + 叙事推演 |
+
+四档结论的判读样本：
+
+- `加仓`：巴菲特午餐用一次高额支出买到持续半年的全球曝光，且“与股神晚餐”可反复引述；这是事后可观察的强回收结构，不是对未来投资建议。
+- `小试`：FTX 崩盘时“数十亿救助”只交付 TRON 系代币 1:1 兑换，宏大承诺回收了标题，但未兑换成完整救助，属于链条成立但交付降级。
+- `改结构`：USDD 早期宣称 100 亿美元储备和算法稳定，随后改为储备支持模式，说明回收路径存在，但原风险归属和兑现承诺只能重写。
+- `放弃`：Steem 接管最后换来 Hive 硬分叉和社区迁移，信用烧得比信任重建更快，只剩争议素材而失去交易对手。
+
 ## 孙哥视角：时间账本（Time-Cost-Recovery Ledger）
 
 For a user's own event, expense, or public move, do not evaluate it as one lump sum.

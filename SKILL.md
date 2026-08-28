@@ -44,6 +44,26 @@ Treat “孙割” as a recoverable-cost attention system, not as a claim about 
 | 6 | Deniability is engineered | The useful sentence is not “this is true”; it is “you cannot prove it is false, and I wrote fiction anyway.” |
 | 7 | Dark patterns are decoded, not licensed | Naming a mechanism is analysis; giving the steps is instruction. The output must separate those two states. |
 
+### 素材蒸馏锚点
+
+七条心法不是空转模型。每次推导都必须落到一个可回溯事件，再把事件按证据层标注：
+`公开记录`、`指控或争议`、`网传文本`、`叙事推演`。下面是已收集素材与七条心法的一一映射，
+作为证据层使用，不新增节点、不替代后续外部检索。
+
+| # | 心法 | 已蒸馏素材锚点 | 证据层 |
+|---|---|---|---|
+| 1 | 每笔支出都是期权 | 2019 巴菲特午餐约 457 万美元，先高调、后取消、道歉、再补办，把一次拍卖拆成多轮头条；2024 香蕉艺术品约 620 万美元买下并吃掉，消费本身变成传播资产 | 公开记录 + 叙事推演 |
+| 2 | 注意力是储备货币 | 2020 Steem 敌意接管被重新讲成“保护网络”，社区分裂本身成为争议流量；2022 FTX “数十亿救助”用宏大承诺先占头条、实际只交付部分 TRON 资产兑换 | 公开记录 + 叙事推演 |
+| 3 | 回收可以是非现金 | 2018 收购 BitTorrent 后发 BTT，把收购话题转成代币热度；WLFI 大额投入买到的只是入口而非永久控制权，最后关系反转 | 公开记录；后者未决 |
+| 4 | 风险先分配 | J 节点小作文中，叙述者保留叙事与流量可选权，被点名者无论澄清、沉默还是诉讼都支付形象成本 | 叙事推演 |
+| 5 | 退出被改写成胜利 | TRON 白皮书雷同被归为“志愿者翻译遗漏”；SEC 终局是 Rainberry 接受禁令并付 1000 万美元、对孙本人等其余请求 with prejudice 驳回，不等于无罪认定 | 公开记录 |
+| 6 | 不可证伪被工程化 | J 节点用“纯属虚构”加真实姓名与亲密视角；2019 午餐延期公开说法是“肾结石”，与中国当局调查报道形成两种可并存解释 | 网传文本 + 指控或争议 |
+| 7 | 黑箱被拆解、不被授权 | 债务化赠与、隐私抵押、沉默对赌、虚构护体，只做机制层解释和防御出口，不写执行步骤 | 叙事推演 |
+
+这层锚点的作用是让输出具备可复核的“事件 → 机制 → 结论”链条。没有命中具体事件时，
+不要用抽象命题充当分析；先把素材档案 [media-archive.md](references/media-archive.md) 中的事件账本读完，
+再做推演。
+
 The **Jing Tian essay is a first-class case node**, not a passing entertainment story, because it applies crypto-promotion logic to a mass audience and turns a private narrative into a testable attention settlement. Call it `J节点：小作文注意力清算`. Analyze it as an asymmetric public-attention event: the narrator appears to retain relationship narrative, financial optionality, and traffic, while the other named party pays a reputation cost whether they respond or stay silent. Never infer intent or private facts from the essay alone; label that interpretation as narrative analysis or satire.
 
 ### 孙哥视角：时间账本

@@ -40,6 +40,14 @@
 | 不可证伪被工程化 | 一句“无法证明是假”把举证负担从作者转给目标 |
 | 黑箱被拆解、不被授权 | 说出机制是分析，给出步骤是指令 |
 
+这七条心法不是空转框架。已收集素材被蒸馏进节点，每次推导都要求先落一个可回溯事件，再标
+证据层：`公开记录 / 指控或争议 / 网传文本 / 叙事推演`。素材来自
+[GeminiGuy/sun-yuchen-perspective](https://github.com/GeminiGuy/sun-yuchen-perspective)
+的六份调研文件 `01-writings.md`、`02-conversations.md`、`03-expression-dna.md`、
+`04-external-views.md`、`05-decisions.md`、`06-timeline.md`，以及本仓库
+[public-record.md](references/public-record.md) 和 [media-archive.md](references/media-archive.md)
+中的纠错口径；仓库只做引用层，不搬运整库推文、调研全文或私人段落。
+
 所有素材和事件都可被切成一条 **时间账本**：事前、出手、峰值、退潮、结算，逐点问
 **成本、用途、回收、残留资产**。“榨干”在模型里的意思是把每个残留资产转成下一轮
 回收，不是榨取某个具体的人；对真实人物的隐私和同意只做机制分析。
