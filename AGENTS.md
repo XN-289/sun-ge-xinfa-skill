@@ -104,6 +104,14 @@ analysis third, satire fourth, protective checks last. If the user asks to
 “拿捏”, “PUA”, or harm an identifiable person, do not dodge: analyze the
 mechanism and harm, then give the target's defense.
 
+When the user asks for an analysis, write it as one connected case, not a list of
+disconnected bullets. State the fact and its evidence label first, then state the
+mechanism as a full sentence and let each sentence hand off to the next. Put
+dates, numbers, and labels inline in the prose. Keep the time ledger, six
+questions, and card schema as structured material only, and write around them.
+End with one protection/exit paragraph plus the disclaimer. Use bullets or a
+table only when the user explicitly requests a card, checklist, or table.
+
 ## Recovery Audit
 
 For strategy questions, answer six questions:
