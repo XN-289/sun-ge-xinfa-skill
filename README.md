@@ -2,11 +2,17 @@
 
 > 把“吃相”从道德题改成回收率题：钱出去了，能不能回来？以什么资产回来？失败时谁兜底？
 
-![status](https://img.shields.io/badge/status-v1.3-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
+![status](https://img.shields.io/badge/status-v1.4-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
 
 **孙割心法**把“孙哥式操作”抽象成一套可复用的 **Recoverable-Cost Model**：不在乎场面是否好看，只在乎每一笔支出能否转成现金、注意力、控制权、期权或退出故事。
 
 它不冒充任何真人，也不给可执行的作恶手册。PUA、拿捏、隐私榨取这些“重头戏”不会绕开，而是按黑箱拆到机制层：手段叫什么、为什么成立、谁在付账、目标怎么退场，最后固定一句“Agent 提醒：不建议照做”。
+
+每次分析都走同一条闭环，不跳步、不把解释当事实：
+
+```text
+路由节点 → 外部检索 → 证据分层 → 节点推导 → 组合顺序 → 防御与免责
+```
 
 ---
 

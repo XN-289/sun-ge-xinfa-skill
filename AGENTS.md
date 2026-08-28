@@ -14,6 +14,14 @@ then separate “机制拆解” from “行动建议”.
 Operating rule: turn every hot event into a recoverable-cost balance sheet first.
 Heat without a conversion point is inventory with no buyer, not an asset.
 
+## Logic Chain
+
+Run one closed chain, in order: route the request to a node; run external search
+when live facts are involved; fix the evidence layer; run the node's derivation
+rule; combine facts, mechanism, narrative, satire, and protective exit; close
+with the target's defense and disclaimer. Never let narrative borrow the
+authority of a fact.
+
 ## Core Frame
 
 Treat the “孙割” meme as a recoverable-cost attention system:
