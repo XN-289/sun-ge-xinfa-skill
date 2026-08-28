@@ -79,6 +79,20 @@ transferable warning is that an event can be economically asymmetric even when t
 
 The conclusion follows from three linked premises, not from assuming bad faith. The two parties hold asymmetric accounts—traffic is cheap for one and expensive for the other; the fiction disclaimer lowers the cost of keeping the text in circulation; silence becomes collateral because every response feeds another cycle. Together they make the narrator appear not to lose even when no private fact is proven. That is a property of the settlement structure, not evidence of intent or of any specific profit.
 
+## 孙哥时间账本
+
+把这次事件切成五个时间点，逐点只问公开结构，不重复未核实的私人细节：
+
+| 时间点 | 成本 | 用途 | 回收 | 残留资产 |
+|---|---|---|---|---|
+| 事前 | 关系与资金被写成可再解释成本 | 积累可调用素材与不对称位置 | 尚无现金回收 | 可选择性发布的第一手叙事权 |
+| 出手 | 第一人称文本 + 真实姓名 | 把私域叙事推向大众注意力 | 阅读量、二创、舆论热度 | “自述小说”的可传播框架 |
+| 峰值 | 未核实细节与平台传播成本 | 让读者把小作文升维成卷宗 | 全网讨论、搜索资产 | 真实感带来的叙事势能 |
+| 退潮 | 对方形象与回应成本 | “纯属虚构”压低证伪压力 | 澄清或沉默都进入下一个循环 | 不可证伪的免责盾 |
+| 结算 | 公共事实分辨率被消耗 | 决定谁保留解释权与下次热度入口 | 注意力、叙事、期权 | 可复用的争议结构 |
+
+这是叙事推演，不是私事为真，也不是获利已被证明。它的可迁移结论是：**当同一件事的流量成本对一方很便宜、对另一方很贵，并且免责声明能压低证伪成本时，沉默本身也会变成抵押。**
+
 ## What Users Learn
 
 1. Before entering a public conflict, map who gains from attention and who loses from attention.

@@ -46,6 +46,20 @@ Treat “孙割” as a recoverable-cost attention system, not as a claim about 
 
 The **Jing Tian essay is a first-class case node**, not a passing entertainment story, because it applies crypto-promotion logic to a mass audience and turns a private narrative into a testable attention settlement. Call it `J节点：小作文注意力清算`. Analyze it as an asymmetric public-attention event: the narrator appears to retain relationship narrative, financial optionality, and traffic, while the other named party pays a reputation cost whether they respond or stay silent. Never infer intent or private facts from the essay alone; label that interpretation as narrative analysis or satire.
 
+### 孙哥视角：时间账本
+
+把任何素材、事件或支出看成一条时间轴，逐点问“成本、用途、回收、残留”。这是计策沙盘和案例研究的共同底层透镜，不是新节点：
+
+| 时间点 | 成本 | 用途 | 回收 | 残留资产 |
+|---|---|---|---|---|
+| 事前 | 未花出去的机会成本 | 建仓、占位、埋钩子 | 无，主要是期权 | 可重复使用的框架、筹码 |
+| 出手 | 现金、关系、信誉 | 买入注意力、控制权、身份 | 现金或叙事回流 | 可再交易的头寸 |
+| 峰值 | 争议与传播成本 | 把热度变成转化点 | 流量、分发、注册 | 可复用的热度脚本 |
+| 退潮 | 信誉燃烧 | 写结局、定责任归属 | 退出故事 | 可复盘的失败资产 |
+| 结算 | 剩余信用 | 决定谁能继续成交 | 现金/控制/期权落袋 | 下次周期的信用余额 |
+
+**“榨干”的模型含义**：不是榨取某个人，而是把每个时间点的残留资产转成下一个周期的回收，直到没有合法回收物为止。对真实人物、隐私和同意，只做机制分析，不列执行步骤。
+
 ## Evidence Ladder
 
 Every substantive output keeps these layers separate:
@@ -72,8 +86,8 @@ Match the request to a node. Each node states what it answers and how its conclu
 |---|---|---|---|
 | 梗卡模式 | User wants a sharable satire card | Card name, trigger, effect, cost, counter-buff, fact label | Lock one mechanism; every field must point back to that mechanism. Read [meme-system.md](references/meme-system.md). |
 | 小作文反拆模式 | User hands over a viral essay | Eight-layer causal chain, asymmetric cost, deniability reading | Text → distribution → viewpoint → credibility → disclaimer → interest → exit → dark pattern, each feeding the next. Read [narrative-analysis.md](references/narrative-analysis.md). |
-| 案例研究模式 | User asks what is verifiable | Timeline or case matrix from the evidence ladder, unresolved legal status | Primary sources anchor facts; refresh live status; do not upgrade viral text. Read [public-record.md](references/public-record.md) and [media-archive.md](references/media-archive.md). |
-| 计策沙盘模式 | User asks how an expense recovers | Six-question audit and a four-tier verdict | Score six questions `强/中/弱/未知`, then derive the tier; two weak or unknown answers force a cheaper experiment. Read [strategy-sandbox.md](references/strategy-sandbox.md). |
+| 案例研究模式 | User asks what is verifiable | Timeline or case matrix from the evidence ladder, unresolved legal status | Primary sources anchor facts; refresh live status; do not upgrade viral text. Apply the time-cost-recovery ledger to each event before drawing conclusions. Read [public-record.md](references/public-record.md) and [media-archive.md](references/media-archive.md). |
+| 计策沙盘模式 | User asks how an expense recovers | Six-question audit, time ledger, and a four-tier verdict | Score six questions `强/中/弱/未知` and map each time point to cost/use/recovery/residual, then derive the tier; two weak or unknown answers force a cheaper experiment. Read [strategy-sandbox.md](references/strategy-sandbox.md). |
 | 炒作编排模式 | User wants their own project or content to spread | Seven-stage loop, three-bucket attention accounting | Target → audience → hook → emotion → distribution → conversion → exit; no conversion point means potential recovery, not realized. Read [hype-engine.md](references/hype-engine.md). |
 | 外部搜索模式 | Topic is live, litigated, market-sensitive | Retrieval time, queries, source strength, URL, anchor, evidence layer | Primary or two strong secondary sources anchor; weak signals downgrade; no search tool means state the limitation. Read [external-search.md](references/external-search.md). |
 | 黑箱拆解模式 | User asks how a tactic “拿捏” or what a PUA is | Mechanism, three-variable asymmetry, harm, target defense and exit | Identify information/exit-cost/speech-position asymmetry; at least two leaning one way makes the target structurally trapped. Read [dark-patterns.md](references/dark-patterns.md). |

@@ -2,7 +2,7 @@
 
 > 把“吃相”从道德题改成回收率题：钱出去了，能不能回来？以什么资产回来？失败时谁兜底？
 
-![status](https://img.shields.io/badge/status-v1.4-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
+![status](https://img.shields.io/badge/status-v1.5-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
 
 **孙割心法**把“孙哥式操作”抽象成一套可复用的 **Recoverable-Cost Model**：不在乎场面是否好看，只在乎每一笔支出能否转成现金、注意力、控制权、期权或退出故事。
 
@@ -35,6 +35,10 @@
 | 退出被改写成胜利 | 同一个事实是亏损还是“实现价值”，取决于谁控制叙事框架 |
 | 不可证伪被工程化 | 一句“无法证明是假”把举证负担从作者转给目标 |
 | 黑箱被拆解、不被授权 | 说出机制是分析，给出步骤是指令 |
+
+所有素材和事件都可被切成一条 **时间账本**：事前、出手、峰值、退潮、结算，逐点问
+**成本、用途、回收、残留资产**。“榨干”在模型里的意思是把每个残留资产转成下一轮
+回收，不是榨取某个具体的人；对真实人物的隐私和同意只做机制分析。
 
 ---
 

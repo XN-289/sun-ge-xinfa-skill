@@ -36,6 +36,38 @@ Closure rule: the four-tier verdict must be derivable from the six scores.
 - `改结构` when a recovery path exists but the risk owner or credibility burn reads `弱`.
 - `放弃` when credibility burns faster than trust rebuilds, or when the only recovery form is a story with no conversion point.
 
+## 孙哥视角：时间账本（Time-Cost-Recovery Ledger）
+
+For a user's own event, expense, or public move, do not evaluate it as one lump sum.
+Slice it into time points and ask what each point costs, what it buys, what it
+returns, and what remains usable after the spike.
+
+```text
+时间点     成本                    用途                    回收                残留资产
+事前       机会成本、未用筹码      建仓/占位/埋钩子       期权                可重复使用的框架
+出手       现金/关系/信誉        买注意力/控制/身份     现金或叙事回流      可再交易的头寸
+峰值       争议与传播成本        把热度变成转化点       流量/分发/注册      可复用的热度脚本
+退潮       信誉燃烧              写结局/定责任归属     退出故事            可复盘的失败资产
+结算       剩余信用              决定谁还能成交         现金/控制/期权落袋  下次周期的信用余额
+```
+
+Rules for this lens:
+
+1. **Every time point must close its own question.** Do not let a future
+   "recovery" hide a present cost or a missing conversion point.
+2. **Residual asset beats moral victory.** A failed move that leaves a reusable
+   script, checklist, contact, or proof of capability is a salvageable asset;
+   a story with no reusable part is only inventory.
+3. **The last column is the actual compounding.** The model's "榨干" means
+   converting each residual into the next cycle, not extracting a person's
+   private life or consent. If the residual is someone else's body, privacy,
+   or silence, the analysis stops at mechanism level and records the harm.
+
+This ledger is the time-axis version of the six questions above. Use it inside
+the case-study node when the user hands over a timeline or asks "孙哥会把每一个
+时间点怎么用". Material examples are indexed in
+[media-archive.md](media-archive.md), under the event recovery table.
+
 ## Resource Recovery Map
 
 Use this for the user's own assets and byproducts. Never map a third party's private life, body, or consent as a monetizable resource.
