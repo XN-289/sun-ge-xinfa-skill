@@ -1,5 +1,9 @@
 # Hype Engine: Attention Recovery Loop
 
+**触发条件**: 用户要让自己的项目、内容或公共议题扩散。
+**回答什么**: 七阶段炒作回收链路、三桶注意力会计、编排沙盘。
+**结论怎么推导**: 目标→受众→钩子→情绪→分发→转化→退出逐环闭合；没有转化点的热度记为潜在回收，不是已实现回收。
+
 Use this file when the user asks how to make an event spread, how Sun-style
 promotion works, or how to turn attention into a recoverable asset. The target
 must be the user's own project, product, content, or a lawful public-interest

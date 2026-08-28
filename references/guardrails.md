@@ -1,5 +1,9 @@
 # Guardrails And Anti-Harvest Checklist
 
+**触发条件**: 用户亏钱后想回本、想报复性交易，或要一张防割清单。
+**回答什么**: 输出安全边界、十条防割冷链路、三行回复模板。
+**结论怎么推导**: 十条按冷却链顺序执行——先停杠杆和频率，再定预算，再验来源写验伪，最后才允许复权；跳过前面门槛就是报复性交易重启。
+
 ## Output Safety
 
 - Treat real people as subjects of public-interest analysis, not as characters in fabricated scenes.

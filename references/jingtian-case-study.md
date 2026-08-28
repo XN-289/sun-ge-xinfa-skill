@@ -1,5 +1,9 @@
 # J Node Case Study: Attention Settlement
 
+**触发条件**: 用户要把景甜小作文当案例节点，做注意力结算拆解。
+**回答什么**: 六个孙模型读数、三张余额表、回收审计与结论推导。
+**结论怎么推导**: 不对称账户 + 免责降证伪成本 + 沉默成抵押 → 叙述者显得不亏；这是结构属性，不是意图或获利证明。
+
 ## Case Input
 
 The primary public input is the first-party repository

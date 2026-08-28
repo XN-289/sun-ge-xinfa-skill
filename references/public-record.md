@@ -1,5 +1,9 @@
 # Public Record Snapshot
 
+**触发条件**: 用户问“这件事到底有哪些可查事实”。
+**回答什么**: 一手 / 强二手锚点、时间线或案例矩阵、证据层标记。
+**结论怎么推导**: 用证据阶梯锚定可查事实；未决诉讼、市场或公开声明的现状先刷新再下结论，不把网传文本升级为公开记录。
+
 Use this file to anchor factual claims. The snapshot was compiled on 2026-08-28; refresh unresolved litigation and market facts before making current statements.
 
 ## Verified Or Widely Reported Anchors

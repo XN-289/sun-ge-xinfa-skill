@@ -1,5 +1,9 @@
 # External Search Protocol
 
+**触发条件**: 话题是实时的、涉诉讼、市场、竞品或用户自己的推广。
+**回答什么**: 外部检索摘要块——检索时间、查询、来源强度、URL、公开锚点、证据层、未找到或待核验。
+**结论怎么推导**: 一手或两个独立强二手才能定锚；只有截图或转发就降级为网传未核实；没有搜索工具就明说，退回证据阶梯，不编造当前事实。
+
 ## When Required
 
 Run this before current-event, case-study, market, competitor, or strategy

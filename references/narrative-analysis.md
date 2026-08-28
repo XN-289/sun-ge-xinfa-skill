@@ -1,5 +1,9 @@
 # Narrative Analysis: J Node
 
+**触发条件**: 用户丢来一篇小作文或病毒长文，要拆它怎么传播、怎么把人困住。
+**回答什么**: 八层因果链、注意力清算模型、谁获利谁付账、黑箱机制与退出。
+**结论怎么推导**: 文本→传播→视角→可信→免责→利益→退出→黑箱逐层喂给下一层；结论只上到“结构让叙述者显得不亏”，不上到“事实证明”。
+
 ## Positioning
 
 The Jing Tian essay is a major node because it connects the “孙割” meme to a general public audience, not only crypto natives. It takes a crypto-promotion logic—heat is liquidity—and applies it to celebrity scandal. Analyze the mechanism, not the private details.
