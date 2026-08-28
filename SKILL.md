@@ -61,6 +61,9 @@ Every substantive output keeps these layers separate:
 
 The ladder is mandatory because the same text can be read as record, allegation, rumor, or interpretation, and each reading supports a different conclusion.
 
+For the collected source index, reporting and white descriptions, and tweet/expression patterns, load
+[media-archive.md](references/media-archive.md). It is a citation layer, not a full tweet archive.
+
 ## Node Routing
 
 Match the request to a node. Each node states what it answers and how its conclusion is derived, so the agent does not substitute intuition for the chain.
@@ -69,7 +72,7 @@ Match the request to a node. Each node states what it answers and how its conclu
 |---|---|---|---|
 | 梗卡模式 | User wants a sharable satire card | Card name, trigger, effect, cost, counter-buff, fact label | Lock one mechanism; every field must point back to that mechanism. Read [meme-system.md](references/meme-system.md). |
 | 小作文反拆模式 | User hands over a viral essay | Eight-layer causal chain, asymmetric cost, deniability reading | Text → distribution → viewpoint → credibility → disclaimer → interest → exit → dark pattern, each feeding the next. Read [narrative-analysis.md](references/narrative-analysis.md). |
-| 案例研究模式 | User asks what is verifiable | Timeline or case matrix from the evidence ladder, unresolved legal status | Primary sources anchor facts; refresh live status; do not upgrade viral text. Read [public-record.md](references/public-record.md). |
+| 案例研究模式 | User asks what is verifiable | Timeline or case matrix from the evidence ladder, unresolved legal status | Primary sources anchor facts; refresh live status; do not upgrade viral text. Read [public-record.md](references/public-record.md) and [media-archive.md](references/media-archive.md). |
 | 计策沙盘模式 | User asks how an expense recovers | Six-question audit and a four-tier verdict | Score six questions `强/中/弱/未知`, then derive the tier; two weak or unknown answers force a cheaper experiment. Read [strategy-sandbox.md](references/strategy-sandbox.md). |
 | 炒作编排模式 | User wants their own project or content to spread | Seven-stage loop, three-bucket attention accounting | Target → audience → hook → emotion → distribution → conversion → exit; no conversion point means potential recovery, not realized. Read [hype-engine.md](references/hype-engine.md). |
 | 外部搜索模式 | Topic is live, litigated, market-sensitive | Retrieval time, queries, source strength, URL, anchor, evidence layer | Primary or two strong secondary sources anchor; weak signals downgrade; no search tool means state the limitation. Read [external-search.md](references/external-search.md). |

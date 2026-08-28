@@ -1,0 +1,134 @@
+# 孙割素材档案：推文、报道与白描索引
+
+**触发条件**: 用户问“孙哥有哪些推特存档、报道、白描或公开素材”，或需要在案例研究、梗卡、小作文反拆、叙事分析里找公开锚点与话术样本。
+**回答什么**: 一份只做引用层的素材索引：事实档案、争议时间线、媒体白描、表达 DNA、采访/播客清单，以及“哪里没有现成整库存档”。
+**结论怎么推导**: 每一条素材先标证据层（公开记录 / 指控或争议 / 网传文本 / 叙事推演）。只吸收可回溯事实、链接和公开行为描述；不复制调研全文，不把二手分析升级为事实，不把主观评价写成事实。
+
+> 本档案把 [GeminiGuy/sun-yuchen-perspective](https://github.com/GeminiGuy/sun-yuchen-perspective) 的调研当成“来源索引”来用。该仓库 MIT，但其中既有可回溯事实，也有自我叙事和观点，必须按证据层降级。我们没有复制它的六份调研全文，只留下关键分类、纠错卡片和可点击链接。
+
+## 1. 检索结论：没有可靠的“整库推文存档”
+
+截至 2026-08-28，GitHub 上没有找到可可靠引用的孙宇晨 X/Twitter 全量整库存档。检索 `justin sun tweets archive`、`sun yuchen archive`、`justinsuntron archive` 等只返回无关仓库或同名个人账号。
+
+可用且应这样使用：
+
+- 英文主号 `@justinsuntron`、中文号 `@sunyuchentron` 是活的公开账号，会删除、改名、被平台限制，不能只靠模型记忆复述。
+- 若要引用具体推文，必须用可核验的帖子 URL、时间戳或独立媒体嵌入的截图；缺 URL 时降级为 `网传，未经核实`。
+- 不把推文全文批量搬进本 skill；只保留短标签、公开发言性质、或必要的最低限度引用，并回到原链接。
+
+## 2. 事实纠错卡片
+
+下面几项是本 skill 对公开数字和诉讼口径的“不许写错”清单。详细事实层见 [public-record.md](public-record.md)。
+
+| 话题 | 正确口径 | 不要写 |
+|---|---|---|
+| SEC 结案 | Rainberry 接受永久禁令并支付 1000 万美元民事罚款；对孙宇晨本人、Tron Foundation、BitTorrent Foundation 的全部请求以 with prejudice 驳回，对 Rainberry 的其余请求同被驳回。这是 2026-03 终局判决，不是实体审判后的“无罪认定”。 | “孙宇晨个人交 1000 万和解”“法院证明清白” |
+| WLFI 纠纷 | 已是两个司法辖区的独立案件：孙宇晨一方在加州北区联邦法院起诉 WLFI；WLFI 在佛州州法院提诽谤之诉。双方主张都未判决，不能写成同一案内的简单“反诉”。 | “忠诚盟友/政治保护伞”“反诉而已” |
+| WLFI 金额 | 公开投入约 7500 万美元、加州诉状称购买额为 4500 万美元并另获顾问代币，是不同口径，不能相加；冻结资产的美元价值随币价变动。 | “投了 2.13 亿”“冻结 1 亿”等精确定值 |
+| TRON 规模 | 截至 2026-08 累计账户约 4 亿；Q2 日均活跃地址约 360 万；二者都不能叫“用户”。 | “4 亿用户” |
+| USDT | Q2 末 Messari 约 879 亿美元；TRON 官方 7 月称超 900 亿；TRON Inc. 10-Q 7 月 30 日口径约 903 亿。必须带日期。 | “850 亿”“全球第一”的模糊固化 |
+| 净资产 | 外部估算约 50 亿—95 亿美元，随币价和未公开持仓显著波动；Forbes 2026-08-27 实时值约 85 亿。 | “50 亿—125 亿” |
+
+## 3. 媒体白描清单
+
+以下是可回溯的报道与评价。记者、评论者、前员工和加密行业人物的评价属于“主观评价”，只作为可信来源的主观立场引用，不升级为事实结论。
+
+### 3.1 深度调查与人物特写
+
+| 来源 | 标题 / 角度 | 层级 |
+|---|---|---|
+| David Z. Morris, Substack | “China's Most Shameless: The Story of Justin Sun and Tron” | 强二手，主观评价 |
+| Slate | “The nefarious truth behind the crypto billionaire who bought the $6.2M banana” | 强二手 |
+| The Verge | 关于 Poloniex、KYC 与潜在刑事调查的系列调查；孙宇晨否认并称诽谤 | 指控或争议 |
+| Protos | Poloniex 储备证明、HTX 储备、外交豁免等调查系列 | 强二手 |
+| Molly White, Citation Needed | 孙宇晨起诉 Bloomberg 以控制叙事的分析 | 强二手，主观评价 |
+| Bloomberg | “From Pariah to Trump Moneyman” | 强二手 |
+| The Nation | “Does Trump's Biggest Crypto Backer Really Exist?” | 强二手，主观评价 |
+| PANews / TechFlow | 中文“孙学”现象研究；把价值定义为“召唤的共识和注意力” | 强二手 |
+
+### 3.2 行业人物的公开评价
+
+| 人物 | 公开评价摘要 | 层级 |
+|---|---|---|
+| Vitalik Buterin | 白皮书抄袭称“Ctrl+C/Ctrl+V 更高效”；称 TRON 的“骗子气质”限制研发人才；称被收购后的 BitTorrent 是“Sun 独裁下的附属物” | 公开记录中的主观评价 |
+| 前 BitTorrent 高管 | “Justin Sun is a habitual liar” | 二手引用，主观评价 |
+| Forbes | 封面标题“Crypto's Billionaire Barker” | 公开记录中的主观标签 |
+| 中文媒体 | “孙割”“区块链新喜剧之王”“币圈最能忽悠的人” | 网传/媒体标签，不作事实 |
+
+### 3.3 争议事件白描时间线
+
+| 时间 | 事件 | 用于本 skill 的公开锚点 |
+|---|---|---|
+| 2017 | TRON 白皮书抄袭争议 | 叙事覆盖：把整段雷同归为“翻译遗漏” |
+| 2018 | 收购 BitTorrent | 注意力/资产先收购，后发 BTT 的回收顺序 |
+| 2019 | 巴菲特午餐约 457 万美元、先取消后补办 | 金额即内容 + 多波反转 |
+| 2020 | Steem/Steemit 接管与 Hive 硬分叉 | 去中心化宣称与中心化控制的冲突 |
+| 2021 | 格林纳达 WTO 代表、后失效 | 身份杠杆，买入口不等于买永久权力 |
+| 2022 | USDD 推出、FTX 崩盘时“数十亿救助” | 宏大承诺与部分交付 |
+| 2023 | SEC 起诉 | 法律与监管事实层 |
+| 2024 | 约 620 万美元香蕉购买并吃掉 | 消费转内容、争议即流量 |
+| 2025 | WLFI 冻结、盟友关系反转 | 金钱万能钥匙的失效条件 |
+| 2026 | SEC 终局；WLFI 双向诉讼 | 未决状态，不写胜负 |
+
+## 4. 表达 DNA 与蹭热点公式
+
+这些是公开行为的可观察模式，用于小作文反拆和梗卡写作，不用于冒充本人。
+
+### 4.1 推文模式
+
+- 极简型：纯数字、单个 emoji 或极短句，制造解读空间。
+- 宣言型：短句加感叹号，例如“All in AI”，不留余地。
+- 炫耀型：展示与权贵的合影、礼物或头衔。
+- 市场喊单型：直接带 `$` 与话题标签点名代币/项目。
+- 蹭热点回应型：事件后数小时发声，常用“I'm willing to…”或“We should…”句式。
+
+### 4.2 蹭热点四步
+
+1. 第一时间出现：事件后 1—6 小时内必须有动作。
+2. 以行动而非观点切入：不是说“我怎么看”，而是“我要做什么”。
+3. 金额锚定：每次行动带具体大额数字，让数字本身成为标题。
+4. 制造二次传播点：初始动作后安排反转、加码或后续兑现。
+
+### 4.3 中英双面人设
+
+| 维度 | 英文面向 | 中文面向 |
+|---|---|---|
+| 人设 | 全球加密领袖、外交官、宇航员 | 90 后创业先锋、马云弟子、爱国企业家 |
+| 内容 | TRON 生态、DeFi、全球政策 | 个人生活、民族叙事、热点评论 |
+| 自称 | “H.E.”、Founder of TRON | 半接受社区“孙哥”称呼 |
+| 争议回应 | 正式声明、法律口吻 | 更情绪化、偶尔直接怼 |
+
+### 4.4 高频句式模板
+
+这些模板只用于分析他如何把立场包装成断言，不生成冒名内容。
+
+- 宣布型：“Excited to announce that [行动] + [金额]”
+- 表态型：“All in [领域]”
+- 蹭热点型：“I'm willing to [做某事] for [名人/热点]”
+- 回应争议型：“[否认] + [表示愿意做更多]”
+- 炫耀型：“[名人] gave me [礼物]”
+- 引用型：“The first lesson I learned from [名人]: [道理]”
+
+## 5. 采访与播客索引
+
+以下是可直接回看或按主办方页面核验的长对话入口。逐句引用前仍须取得原文或转录。
+
+| 类型 | 来源 | 链接 |
+|---|---|---|
+| 长文采访 | Thought Economics | https://thoughteconomics.com/justin-sun-tron-bittorrent/ |
+| 播客 | Bad Crypto Podcast #410 | https://badcryptopodcast.com/2020/05/25/justin-sun-410/ |
+| 播客 | Blockworks Empire | https://blockworks.co/podcast/empire/496cf85c-eac0-11ed-bf57-2f490e5653be |
+| 采访 | Bitcoin.com Podcast | https://podcast.bitcoin.com/episode/5KAK3fBL5bpOai3QQHizcl/ |
+| 大会 | Milken Institute Asia Summit 2023 | https://milkeninstitute.org/content-hub/event-panels/conversation-founder-tron-justin-sun |
+| 大会 | Bitcoin Asia 2026 炉边对话 | https://m.cnyes.com/news/id/6589263 |
+| 书面问答 | CoinPost 日本市场专访 | https://coinpost.jp/?p=715076 |
+| 视频讲话 | WebX 2026 | https://coinpost.jp/?p=725331 |
+
+## 6. 使用规则
+
+- 用这些素材时，先标证据层，再进入叙事或梗卡。
+- 对活点、诉讼、市场数字先跑 [external-search.md](external-search.md)，不能拿本快照当最新事实。
+- 对真实人物的私人、家庭、生殖、医疗和关系细节，只可标注“未经核实”，不重复细节。
+- 不把媒体的尖锐标题、前员工的评价、行业人物的嘲讽当成法院认定；它们可用于呈现“外部怎么看”，不能用于定罪。
+- 不在仓库中复制整篇调研、整库推文、PDF、截图或私人段落，只保留最小必要引用和链接。
+

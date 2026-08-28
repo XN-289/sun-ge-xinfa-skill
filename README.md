@@ -80,6 +80,8 @@
 
 完整拆解见 [references/jingtian-case-study.md](references/jingtian-case-study.md)，发布用长文见 [examples/jingtian-case-showcase.md](examples/jingtian-case-showcase.md)。原文不随仓库再分发；出处与本地研究指纹见 [references/source-manifest.md](references/source-manifest.md)，一手仓库为 [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)。
 
+公开报道、媒体白描、采访入口、表达 DNA 和“有没有整库推文存档”的结论收在 [references/media-archive.md](references/media-archive.md)。这是引用层：留链接和短标签，不搬运全文。
+
 ---
 
 ## 4. 八个节点
@@ -187,6 +189,7 @@ sun-ge-xinfa/
     ├── narrative-analysis.md
     ├── jingtian-case-study.md
     ├── source-manifest.md
+    ├── media-archive.md
     ├── strategy-sandbox.md
     ├── dark-patterns.md
     ├── external-search.md

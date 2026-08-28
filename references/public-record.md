@@ -4,7 +4,7 @@
 **回答什么**: 一手 / 强二手锚点、时间线或案例矩阵、证据层标记。
 **结论怎么推导**: 用证据阶梯锚定可查事实；未决诉讼、市场或公开声明的现状先刷新再下结论，不把网传文本升级为公开记录。
 
-Use this file to anchor factual claims. The snapshot was compiled on 2026-08-28; refresh unresolved litigation and market facts before making current statements.
+Use this file to anchor factual claims. The snapshot was compiled on 2026-08-28; refresh unresolved litigation and market facts before making current statements. For the source index, expression patterns, and media white descriptions, see [media-archive.md](media-archive.md).
 
 ## Verified Or Widely Reported Anchors
 
@@ -13,10 +13,28 @@ Use this file to anchor factual claims. The snapshot was compiled on 2026-08-28;
 - On 2023-03-22, the U.S. Securities and Exchange Commission announced charges against Justin Sun and Tron/BitTorrent-related entities.
 - The SEC alleged unregistered offers and sales of TRX and BTT, fraud and market manipulation through wash trading, and undisclosed compensation to celebrity promoters.
 - The SEC alleged employees coordinated more than 600,000 wash trades and approximately $31 million in proceeds from the unregistered offerings. These are allegations, not findings of universal truth.
-- CourtListener indexes the case as `SEC v. Sun`, SDNY case `1:23-cv-02433-ER`, docket `67071330`. Do not describe the case as won, dismissed, settled, or concluded without checking a current primary or court source.
+- CourtListener indexes the case as `SEC v. Sun`, SDNY case `1:23-cv-02433-ER`, docket `67071330`.
+- Final posture as of 2026-03: `Rainberry, Inc.` accepted a permanent injunction and was ordered to pay a $10,000,000 civil penalty; the remaining SEC claims against Rainberry, and all claims against Justin Sun, Tron Foundation, and BitTorrent Foundation, were dismissed with prejudice. This is a consent/dismissal resolution, not an adjudication of innocence.
+- Do not write "Sun personally paid $10 million to settle" or "a court proved him innocent." Check a current primary or court source before describing any live status.
 - Source entry points:
   - SEC press release: https://www.sec.gov/news/press-release/2023-59
+  - SEC Litigation Release No. 26496: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26496
   - CourtListener docket: https://www.courtlistener.com/docket/67071330/sec-v-sun/
+
+### World Liberty Financial Dispute
+
+- Sun and World Liberty Financial are in two separate proceedings, not one case with a simple counterclaim.
+- On 2026-04-21 Sun and his entities sued WLFI in the U.S. District Court for the Northern District of California, case `3:26-cv-03360-JD`, over frozen tokens and related claims.
+- On 2026-05-04 WLFI filed a defamation and defamation-by-implication suit against Sun in Florida state court, Miami-Dade County.
+- The filings contain competing allegations of hidden freeze/blacklist controls, threats, prohibited transfers, straw purchases, and shorting. None have been adjudicated; treat them as `指控，未决`.
+- Public investment amount, complaint purchase amount, and advisor tokens are different measures and must not be added together.
+
+### TRON Network And Wealth Figures
+
+- As of 2026-08, TRON reports over 400 million cumulative accounts. This is not "400 million users"; use `累计账户` or `激活地址`, and separately cite daily active addresses.
+- Q2 2026 daily active addresses were about 3.6 million (Messari).
+- TRC-20 USDT was about $87.9 billion at Q2-end (Messari), over $90 billion by official July figures, and about $90.3 billion in TRON Inc.'s 10-Q dated July 30. Always attach the date and source.
+- External net-worth estimates range roughly $5 billion to $9.5 billion and move with token prices; Forbes showed about $8.5 billion on 2026-08-27. Do not merge different model bounds.
 
 ### Attention-Economics Cases
 
@@ -43,6 +61,10 @@ Safe factual description:
 The repository's existence supports distribution and apparent first-party publication, not the truth of
 private-life claims. Do not treat intent, payment, motive, or private conduct as established merely because
 the essay exists. In factual sections, call it `一手仓库发布、自述式、自称虚构的小作文`.
+
+### Curated Source Index
+
+The material index in [media-archive.md](media-archive.md) lists reporting, white descriptions, interview entry points, and expression patterns. It is a citation layer, not a redistribution of full research files or tweets.
 
 ## GitHub Analogues
 
