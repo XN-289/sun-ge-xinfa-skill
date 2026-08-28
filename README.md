@@ -119,6 +119,26 @@ cd ~/.codex/skills/sun-ge-xinfa
 git pull
 ```
 
+### 其他 Agent / 国内 Agent
+
+根目录的 `AGENTS.md` 是可移植规则，适配 Cursor、Windsurf、Gemini CLI、
+GitHub Copilot、Cline、Trae、通义灵码/Qoder、腾讯 CodeBuddy、豆包 MarsCode、
+百度 Comate 等工具。完整安装矩阵见
+[adapters/README.md](adapters/README.md)。
+
+在项目根目录执行：
+
+```powershell
+irm https://raw.githubusercontent.com/XN-289/sun-ge-xinfa-skill/main/install-agents.ps1 | iex
+```
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/XN-289/sun-ge-xinfa-skill/main/install-agents.sh | bash
+```
+
+脚本会写入各工具常见的规则目录；对 `GEMINI.md` 和
+`.github/copilot-instructions.md` 这类单文件配置只打印追加提示，不覆盖已有内容。
+
 ---
 
 ## 6. 快速用法
@@ -152,11 +172,17 @@ git pull
 ```text
 sun-ge-xinfa/
 ├── SKILL.md
+├── AGENTS.md
 ├── install.ps1
 ├── install.sh
+├── install-agents.ps1
+├── install-agents.sh
 ├── LICENSE
 ├── agents/
 │   └── openai.yaml
+├── adapters/
+│   ├── README.md
+│   └── cursor.mdc
 ├── examples/
 │   └── jingtian-case-showcase.md
 └── references/
