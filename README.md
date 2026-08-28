@@ -185,6 +185,9 @@ sun-ge-xinfa/
 │   └── cursor.mdc
 ├── examples/
 │   └── jingtian-case-showcase.md
+├── tests/
+│   ├── red-team.md
+│   └── adversarial-check.ps1
 └── references/
     ├── public-record.md
     ├── narrative-analysis.md
