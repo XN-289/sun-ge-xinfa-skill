@@ -58,6 +58,8 @@ if (-not $SkipSkill) {
             'references/source-manifest.md',
             'references/strategy-sandbox.md',
             'references/dark-patterns.md',
+            'references/external-search.md',
+            'references/hype-engine.md',
             'references/meme-system.md',
             'references/guardrails.md'
         )
