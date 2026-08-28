@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-v1.1-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
 
-**孙割心法**是一个面向加密圈、公关事件、内容生意和谈判场景的 Codex Skill。它把“孙哥式操作”抽象成一套冷冰冰的 **Recoverable-Cost Model**：不在乎场面评价，只在乎成本能否转成现金、注意力、控制权、期权和退出故事。
+**孙割心法**是一个面向加密圈、公关事件、内容生意和谈判场景的 Skill。它把“孙哥式操作”抽象成一套冷冰冰的 **Recoverable-Cost Model**：不在乎场面评价，只在乎成本能否转成现金、注意力、控制权、期权和退出故事。
 
 它不 impersonate 真人，也不给可执行的作恶手册。PUA、拿捏、隐私榨取这些“重头戏”不会绕过，而会按黑箱拆开：手段叫什么、为什么会成立、谁在付账、目标怎么退场，最后给一句“Agent 提醒：不建议照做”。
 
