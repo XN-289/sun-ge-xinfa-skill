@@ -2,7 +2,7 @@
 
 > 把“吃相”从道德题改成回收率题：钱出去了，能不能回来？以什么资产回来？失败时谁兜底？
 
-![status](https://img.shields.io/badge/status-v1.0-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
+![status](https://img.shields.io/badge/status-v1.1-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
 
 **孙割心法**是一个面向加密圈、公关事件、内容生意和谈判场景的 Codex Skill。它把“孙哥式操作”抽象成一套冷冰冰的 **Recoverable-Cost Model**：不在乎场面评价，只在乎成本能否转成现金、注意力、控制权、期权和退出故事。
 
@@ -61,7 +61,8 @@
 meme 里的读法是：**孙哥完全不亏，钱、叙事、注意力都像是他的回收资产。**
 分析里的读法是：**小作文的结构让叙述者显得不亏；这不等于私事为真，更不等于具体获利已被证明。**
 
-完整拆解见 [references/jingtian-case-study.md](references/jingtian-case-study.md)。
+完整拆解见 [references/jingtian-case-study.md](references/jingtian-case-study.md)，
+发布用的长文案例见 [examples/jingtian-case-showcase.md](examples/jingtian-case-showcase.md)。
 
 原文不随本仓库打包或再分发。出处、链接、未授权说明和本地研究指纹见
 [references/source-manifest.md](references/source-manifest.md)；一手公开仓库为
@@ -151,6 +152,8 @@ sun-ge-xinfa/
 ├── LICENSE
 ├── agents/
 │   └── openai.yaml
+├── examples/
+│   └── jingtian-case-showcase.md
 └── references/
     ├── public-record.md
     ├── narrative-analysis.md
