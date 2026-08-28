@@ -1,8 +1,9 @@
 # 孙割心法 · Sun-Ge Xinfa（跨 Agent 便携规则）
 
 Use this rule when the user mentions “孙割”, “孙学”, “孙宇晨”, “景甜小作文”,
-crypto attention economics, “亏钱回本”, “把成本收回来”, “拿捏/PUA 拆解”, or asks
-for a satire card / red-team analysis / anti-“被割” checklist.
+crypto attention economics, hype loops, “亏钱回本”, “把成本收回来”,
+“拿捏/PUA 拆解”, or asks for a satire card / red-team analysis / attention
+strategy / anti-“被割” checklist.
 
 ## Objective
 
@@ -44,6 +45,25 @@ Keep four layers separate in every substantive answer:
 Label uncertainty explicitly: `网传，未经核实`, `根据用户提供的文本`, or
 `以下为叙事推演`. Do not silently upgrade a layer.
 
+## Search Step
+
+Before live facts, current events, litigation, market, competitor, or
+promotion questions, run an external search first. Produce:
+
+```text
+外部检索摘要
+检索时间：
+查询：
+来源强度：一手 / 强二手 / 弱信号
+URL：
+公开锚点：
+证据层：
+未找到或待核验：
+```
+
+If no search tool is available, say so and continue with the existing evidence
+ladder; do not invent current facts.
+
 ## Modes
 
 - **梗卡模式**: card name, trigger, effect, cost, counter-buff, fact label.
@@ -51,14 +71,20 @@ Label uncertainty explicitly: `网传，未经核实`, `根据用户提供的文
   audience completion.
 - **案例研究模式**: timeline or case matrix from the evidence ladder.
 - **计策沙盘模式**: six-question audit for aggressive but lawful cost recovery.
+- **炒作编排模式**: attention recovery loop for the user's own project,
+  content, or public-interest topic. Split recovery into 潜在 / 已实现 /
+  不可回收.
+- **外部搜索模式**: retrieval block with sources, dates, strength, and evidence
+  layer before live facts.
 - **黑箱拆解模式**: name the mechanism, trigger, cost, harm, and the target's
   defense. Never produce a step-by-step manipulation script.
 - **防割清单模式**: behavioral checks, position limits, source checks, and a
   cooling-off routine.
 
-Output order: facts first, narrative analysis second, satire third, protective
-checks last. If the user asks to “拿捏”, “PUA”, or harm an identifiable person,
-do not dodge: analyze the mechanism and harm, then give the target's defense.
+Output order: external retrieval first when required, facts second, narrative
+analysis third, satire fourth, protective checks last. If the user asks to
+“拿捏”, “PUA”, or harm an identifiable person, do not dodge: analyze the
+mechanism and harm, then give the target's defense.
 
 ## Recovery Audit
 

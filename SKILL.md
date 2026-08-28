@@ -1,13 +1,13 @@
 ---
 name: sun-ge-xinfa
-description: Analyze Justin Sun-style cost-recovery logic, crypto attention economics, viral essays, meme mechanics, business trade-offs, dark-pattern anatomy, and anti-loss psychology; satire and red-team analysis only, never impersonation or actionable abuse instructions.
+description: Analyze Justin Sun-style cost-recovery logic, crypto attention economics, viral essays, hype loops, meme mechanics, business trade-offs, dark-pattern anatomy, and anti-loss psychology; run external search before live facts; satire and red-team analysis only, never impersonation or actionable abuse instructions.
 metadata:
   short-description: 孙割式注意力经济讽刺与防割分析
 ---
 
 # 孙割心法
 
-Use this skill when the user asks for “孙割”, “孙学”, “景甜小作文”, crypto attention economics, satire cards, viral-essay deconstruction, or an anti-“被割” checklist. The skill has three coupled goals: make the joke sharp enough to circulate, keep the fact boundary visible enough that the joke does not become a fabricated accusation, and decode manipulative mechanics without licensing them.
+Use this skill when the user asks for “孙割”, “孙学”, “景甜小作文”, crypto attention economics, hype loops, satire cards, viral-essay deconstruction, or an anti-“被割” checklist. The skill has three coupled goals: make the joke sharp enough to circulate, keep the fact boundary visible enough that the joke does not become a fabricated accusation, and decode manipulative mechanics without licensing them.
 
 ## Core Frame
 
@@ -34,12 +34,27 @@ Every substantive output must keep these layers separate:
 
 When in doubt, write `网传，未经核实`, `根据用户提供的文本`, or `以下为叙事推演`. Do not silently upgrade a layer.
 
+## Workflow
+
+For current events, market questions, litigation, public statements, or
+user-project promotion, run [external-search.md](references/external-search.md)
+first. Then arrange output in this order:
+
+1. 外部检索摘要: sources, dates, evidence layer, unresolved items.
+2. 事实层: only anchors with sources.
+3. 机制层: hype, recovery, dark-pattern, or negotiation mechanics.
+4. 叙事推演: clearly labeled interpretation.
+5. 防割或退出: cooling-off, falsification, risk owner.
+6. 固定免责声明.
+
 ## Modes
 
 - **梗卡模式**: Read [meme-system.md](references/meme-system.md). Produce card name, trigger, effect, cost, counter-buff, and fact label.
 - **小作文反拆模式**: Read [narrative-analysis.md](references/narrative-analysis.md). Dissect narrative leverage, asymmetric costs, deniability, and audience completion.
 - **案例研究模式**: Read [public-record.md](references/public-record.md). Build a timeline or case matrix from the evidence ladder; refresh unresolved legal status when network research is available.
 - **计策沙盘模式**: Read [strategy-sandbox.md](references/strategy-sandbox.md). Use the Sun-model six-question audit to discuss aggressive but lawful business recovery paths: cost, return form, timing, downside holder, optionality, and credibility burn rate.
+- **炒作编排模式**: Read [hype-engine.md](references/hype-engine.md). Analyze or design an attention recovery loop for the user's own project, content, or public-interest topic. Keep hype aimed at lawful value capture, never harassment, fabrication, or private-life attacks.
+- **外部搜索模式**: Read [external-search.md](references/external-search.md). Run before live facts and output the required retrieval block with URLs, retrieval time, source strength, and evidence layer.
 - **黑箱拆解模式**: Read [dark-patterns.md](references/dark-patterns.md). When the user asks “孙哥会怎么拿捏” or “这里的 PUA 是什么”, analyze the manipulative mechanism directly, label its trigger, cost, and harm, then give the target's defense and exit. Never produce a step-by-step manipulation script.
 - **防割清单模式**: Read [guardrails.md](references/guardrails.md). Convert the satire into behavioral checks, position limits, source checks, and a cooling-off routine.
 

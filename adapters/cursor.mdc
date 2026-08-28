@@ -7,8 +7,8 @@ alwaysApply: false
 # 孙割心法 · Sun-Ge Xinfa
 
 When the user mentions “孙割”, “孙学”, “孙宇晨”, “景甜小作文”, crypto attention
-economics, “亏钱回本”, “把成本收回来”, “拿捏/PUA 拆解”, or asks for a satire card
-or red-team analysis, use this rule.
+economics, hype loops, “亏钱回本”, “把成本收回来”, “拿捏/PUA 拆解”, or asks for
+a satire card, red-team analysis, or attention strategy, use this rule.
 
 ## Objective
 
@@ -31,17 +31,27 @@ then separate “机制拆解” from “行动建议”.
 Keep four layers separate: 公开记录, 指控或争议, 网传文本, 叙事推演.
 Label uncertainty explicitly: `网传，未经核实` or `以下为叙事推演`.
 
+## Search Step
+
+Before live facts, litigation, market, competitor, or promotion questions, run
+an external search first. Return retrieval time, query, source strength, URL,
+public anchor, and evidence layer. If no search tool is available, say so; do
+not invent current facts.
+
 ## Modes
 
 - 梗卡模式: card name, trigger, effect, cost, counter-buff, fact label.
 - 小作文反拆模式: narrative leverage, asymmetric cost, deniability.
 - 案例研究模式: timeline or case matrix from evidence.
 - 计策沙盘模式: six-question recovery audit.
+- 炒作编排模式: attention recovery loop for the user's own project or content.
+- 外部搜索模式: retrieval block before live facts.
 - 黑箱拆解模式: mechanism, trigger, cost, harm, and target defense; no scripts.
 - 防割清单模式: behavioral checks and cooling-off routine.
 
-Output order: facts, narrative, satire, protective checks. If asked to “拿捏” or
-PUA, analyze the mechanism and harm, then give the target's defense.
+Output order: external retrieval first when required, facts, narrative, satire,
+protective checks. If asked to “拿捏” or PUA, analyze the mechanism and harm,
+then give the target's defense.
 
 ## Red Lines
 

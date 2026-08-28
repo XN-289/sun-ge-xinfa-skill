@@ -2,7 +2,7 @@
 
 > 把“吃相”从道德题改成回收率题：钱出去了，能不能回来？以什么资产回来？失败时谁兜底？
 
-![status](https://img.shields.io/badge/status-v1.1-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
+![status](https://img.shields.io/badge/status-v1.2-informational) ![skill](https://img.shields.io/badge/Codex-SKILL.md-blue) ![mode](https://img.shields.io/badge/mode-satire%20%2B%20strategy-orange) ![safety](https://img.shields.io/badge/redline-no%20abuse%20ops-red)
 
 **孙割心法**是一个面向加密圈、公关事件、内容生意和谈判场景的 Skill。它把“孙哥式操作”抽象成一套冷冰冰的 **Recoverable-Cost Model**：不在乎场面评价，只在乎成本能否转成现金、注意力、控制权、期权和退出故事。
 
@@ -78,6 +78,8 @@ meme 里的读法是：**孙哥完全不亏，钱、叙事、注意力都像是�
 | 项目 or 代币叙事 | 流量库存、信用燃烧、退出结构 |
 | 内容生意 | 把一次热闹改成可复用资产 |
 | 商业谈判 | 双方真实收益、替代方案、分阶段成交结构 |
+| 炒作编排 | 七阶段注意力回收链路、目标资产、分发与退潮后的剩余价值 |
+| 外部检索 | 中英 query、来源分级、交叉验证与证据层标记 |
 | 黑箱拆解 | PUA / 拿捏 / 隐私杠杆的机制、伤害与防御 |
 | 亏钱复盘 | 回本 Buff 拆解 + 24 小时防割清单 |
 | 梗卡创作 | 触发 / 效果 / 代价 / 克制 / 事实标签 |
@@ -165,6 +167,14 @@ curl -fsSL https://raw.githubusercontent.com/XN-289/sun-ge-xinfa-skill/main/inst
 使用 $sun-ge-xinfa，我亏钱后总想一把回本，帮我拆回本 Buff。
 ```
 
+```text
+使用 $sun-ge-xinfa，先做外部搜索，再把这个热点拆成七阶段炒作回收链路。
+```
+
+```text
+使用 $sun-ge-xinfa，帮我给这个内容做炒作编排沙盘：钩子、情绪负载、转化点、退潮后剩什么？
+```
+
 ---
 
 ## 7. 文件结构
@@ -195,6 +205,8 @@ sun-ge-xinfa/
     ├── source-manifest.md
     ├── strategy-sandbox.md
     ├── dark-patterns.md
+    ├── external-search.md
+    ├── hype-engine.md
     ├── meme-system.md
     └── guardrails.md
 ```
