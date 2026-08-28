@@ -83,10 +83,10 @@ The best cards sound like a crypto trading interface crossed with a morality pla
 
 ## Generation Recipe
 
-1. Pick one mechanism: heat, leverage, exit, deniability, asymmetry, or recovery psychology.
-2. Give it a game-like trigger tied to a recognizable public scene.
-3. Make the effect seductive for two sentences, then reveal the absurd cost.
-4. Make the counter-buff boring and practical. The contrast is the joke.
-5. End with the evidence label.
+0. Lock a single mechanism first: heat, leverage, exit, deniability, asymmetry, or recovery psychology. Trigger, effect, cost, and counter-buff must all point back to that same mechanism; if the cost belongs to a different mechanism, the card is two jokes glued together.
+1. Give it a game-like trigger tied to a recognizable public scene.
+2. Make the effect seductive for two sentences, then reveal the absurd cost.
+3. Make the counter-buff boring and practical. The contrast is the joke.
+4. End with the evidence label.
 
 Keep the card under 160 Chinese characters when possible. If the user asks for a poster, keep the text even shorter and place the disclaimer outside the card frame.

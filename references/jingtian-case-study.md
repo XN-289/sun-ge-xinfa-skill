@@ -73,6 +73,8 @@ transferable warning is that an event can be economically asymmetric even when t
 结论：注意力强回收，事实弱回收，长期信用高风险。
 ```
 
+The conclusion follows from three linked premises, not from assuming bad faith. The two parties hold asymmetric accounts—traffic is cheap for one and expensive for the other; the fiction disclaimer lowers the cost of keeping the text in circulation; silence becomes collateral because every response feeds another cycle. Together they make the narrator appear not to lose even when no private fact is proven. That is a property of the settlement structure, not evidence of intent or of any specific profit.
+
 ## What Users Learn
 
 1. Before entering a public conflict, map who gains from attention and who loses from attention.

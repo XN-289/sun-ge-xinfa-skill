@@ -27,6 +27,8 @@ The best answer reads like a hostile-protocol audit: precise about the mechanism
 
 Use this when the user mentions losing money, revenge trading, or wanting to recover losses.
 
+The ten items are a cooling chain, not a menu. Run them in order: stop leverage and frequency first, then constrain budget, then verify source and write the falsification condition, and only then allow any re-entry. Skipping to “复权” before the earlier gates is how revenge trading restarts.
+
 1. **降杠杆**: Turn leverage off before improving the story.
 2. **降频率**: Set a 24-hour cooling-off period after any loss that dominates mood.
 3. **定预算**: Only risk money whose total loss would not change rent, debt repayment, family obligations, or sleep.

@@ -4,9 +4,9 @@
 
 The Jing Tian essay is a major node because it connects the “孙割” meme to a general public audience, not only crypto natives. It takes a crypto-promotion logic—heat is liquidity—and applies it to celebrity scandal. Analyze the mechanism, not the private details.
 
-## Seven-Layer Deconstruction
+## Eight-Layer Deconstruction
 
-For a viral essay, answer these in order:
+For a viral essay, answer these as a causal chain, not a flat checklist. Each layer feeds the next:
 
 1. **文本层**: What is actually written? Does it claim fact, fiction, diary, or satire?
 2. **传播层**: Where did it spread, and which phrase became the distribution hook?
@@ -16,6 +16,8 @@ For a viral essay, answer these in order:
 6. **利益层**: Who gains reach, who pays reputation cost, and which future action becomes easier?
 7. **退出层**: For each possible response—silence, denial, lawsuit, emotional statement, humor—who gets another news cycle?
 8. **黑箱层**: Which PUA / “拿捏” / privacy-leverage mechanism is present? Name it, explain why it works, state the harm, and give the target's defense. Do not repeat private details or convert the analysis into an instruction manual.
+
+Chain closure: text arms distribution; distribution selects the narrator's view; the narrator's view sets the credibility threshold; the disclaimer sets falsification cost; interest decides who pays; exit options decide whether there is another cycle; the dark-pattern layer explains why the target has no safe speaking position.
 
 ## J-Node Attention Model
 
@@ -27,6 +29,8 @@ Call this the **Attention Clearing House**:
 - **成本转移**: one side's existing notoriety makes scandal cheaper; the other side's clean-image economy makes every clarification expensive.
 - **流动性输出**:热搜、二创、直播、付费阅读、社群讨论、项目注意力。Do not claim a specific token or account profited without verified market and wallet evidence.
 - **长期效应**: the unverified version becomes a permanent search suggestion; corrections rarely travel as far as the accusation.
+
+Each arrow above is testable. Without a verified conversion point, “流动性输出” stays a potential recovery, not a realized one; without a confirmed first-party decision, “成本转移” stays a structural reading, not an established allocation.
 
 This is why the node feels like a “harvesting strategy” to many observers: the story is structured so that public curiosity, denial, and mockery all become fuel. That remains an interpretation of the text's design, not proof of actual intent.
 

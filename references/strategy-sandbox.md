@@ -25,6 +25,13 @@ For any proposed action, campaign, investment, gift, public statement, or confli
 
 Score each answer `强 / 中 / 弱 / 未知`. If two or more are `弱` or `未知`, the correct output is not enthusiasm; it is a cheaper experiment.
 
+Closure rule: the four-tier verdict must be derivable from the six scores.
+
+- `加仓` only when cash direction, recovery form, and recovery time are all `强`, and at least one exit asset is named.
+- `小试` when the chain is plausible but recovery time or failure exit is only `中`.
+- `改结构` when a recovery path exists but the risk owner or credibility burn reads `弱`.
+- `放弃` when credibility burns faster than trust rebuilds, or when the only recovery form is a story with no conversion point.
+
 ## Resource Recovery Map
 
 Use this for the user's own assets and byproducts. Never map a third party's private life, body, or consent as a monetizable resource.
@@ -79,6 +86,8 @@ Attention bought with outrage depreciates quickly. Track three balances:
 - **Exit balance**: buyers, partners, or institutions still willing to transact.
 
 When traffic rises while trust and exit balances fall, the venture is not winning; it is liquidating reputation.
+
+The account is insolvent when trust and exit balances both read `弱` while traffic still rises: every new spike is borrowing future credibility at a rising rate.
 
 ## Output Template
 
