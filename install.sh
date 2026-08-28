@@ -17,6 +17,7 @@ references/public-record.md
 references/narrative-analysis.md
 references/jingtian-case-study.md
 references/source-manifest.md
+references/media-archive.md
 references/strategy-sandbox.md
 references/dark-patterns.md
 references/external-search.md
